@@ -32,8 +32,8 @@
     background-color: #bdf5dbd6;
     display: flex;
     justify-content: space-between;
-    margin-left: 160px;
-    margin-right: 160px;
+    /* margin-left: 160px;
+    margin-right: 160px; the border"s margin are not working */
 
 
 }
