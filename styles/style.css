@@ -101,6 +101,8 @@
     border-radius: 5px;
     margin-left: 160px;
     margin-right: 160px;
+    border: 1px solid #ccc;
+    border-radius: 5px; 
     
 }
 .resume-container{
@@ -135,6 +137,8 @@
     background-image: url(../assets/quote-bg.png);
     background-repeat: no-repeat;
     background-position:left top;
+    border: 1px solid #ccc;
+    border-radius: 5px; 
 }
 /* 5th part */
 .table{
@@ -154,6 +158,8 @@
     background-color:  #f5f5f5;;
     display: flex;
     justify-content:space-around;
+    border: 1px solid #ccc;
+    border-radius: 5px; 
     
 }
 .earth2{
@@ -162,5 +168,41 @@
    background-color: #f5f5f5;
    display: flex;
    justify-content: space-around;
+   border: 1px solid #ccc;
+    border-radius: 5px; 
 
+}
+/* 6th part */
+.donate{
+    margin-left: 160px;
+    margin-right: 160px;
+    background-color: white;
+    text-align: center;
+
+}
+.taka{
+    margin-left: 160px;
+    margin-right: 160px;
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid #ccc;
+    border-radius: 5px; 
+   
+    
+}
+.extra{
+    padding: 50px;
+    background-color: whitesmoke;
+    color: #757575;
+    text-align: center;
+}
+.extra input[type="text"]
+ {
+    text-align: center;
+    width: 90%; 
+    height: 50px;
+    font-size: 18px; 
+    padding: 5px; 
+    border: 1px solid #ccc;
+    border-radius: 5px; 
 }
