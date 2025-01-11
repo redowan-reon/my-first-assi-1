@@ -147,6 +147,31 @@
     border-radius: 5px; 
 }
 /* 5th part */
+.chat2 button{
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color:#C6E4D6;
+    color:#0E0E0E;
+    border: none;
+    border-radius: 5px;
+
+}
+.chats{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: #0E0E0E;
+    border-radius: 10px;
+    gap: 3px;
+}
+
+
+
+
+
+
+
+
 .table{
     display: flex;
     flex-direction: column;
@@ -196,6 +221,25 @@
    
     
 }
+.one:hover {
+    background-color: rgb(83, 244, 174);
+    color: rgb(43, 39, 39);
+  }
+
+  .two:hover {
+    background-color: rgb(83, 244, 174);
+    color: rgb(43, 39, 39);
+  }
+
+  .three:hover {
+    background-color: rgb(83, 244, 174);
+    color: rgb(43, 39, 39);
+  }
+
+  .four:hover {
+    background-color: rgb(83, 244, 174);
+    color: rgb(43, 39, 39);
+  }
 .extra{
     padding: 50px;
     background-color: whitesmoke;
@@ -254,3 +298,4 @@
     border-radius: 5px; 
     border-radius: 15px;
 }
+/* the end */
